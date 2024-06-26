@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @scandy-dxd
-- 👀 I’m interested in collaborating and to learn coding
-- - 🌱 I’m currently learning c programming language
-- 💞️ I’m looking to collaborate on any learning opportunity.
-- 
-- 📫 How to reach me on skanditha17@gmail.com
+👋 Hi, I'm Scandy, a passionate and driven student specializing in Electronics and Communication Engineering. Currently honing my skills in machine learning, deep learning, and natural language processing, I've worked on diverse projects ranging from speech recognition to web development. I love solving complex problems with innovative solutions and am always eager to collaborate on exciting tech projects. Check out my repositories for a glimpse of my journey in tech and let's connect to create something amazing together!
 
 <!---
 scandy-dxd/scandy-dxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
